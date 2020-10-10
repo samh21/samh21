@@ -2,9 +2,9 @@
 
 ---
 
-I'm a self-taught developer, looking to break in to my first role in a junior position. I love all things React JS.
+I'm a self-taught developer, looking to break in to my first role as a front end developer. I love all things React JS and have recently been getting to grips with Gatsby JS
 
-I'm changing careers after spending 15 years in the Casino industry. I've travelled the world whilst doing my job, visiting amazing places. I've worked with and led teams of fantastic people in my position as a General Casino Manager for the past 8 years.
+I'm changing careers after spending 15 years in the Casino industry. I've travelled the world whilst doing my job, visiting amazing places. I've worked with and led teams of fantastic people in my position as a General Casino Manager for the past 8 years. Throughout my career, I've always maintained a passion for technology. I've built solutions for the companies I've worked for in the past. Designing, developing and implementing tools to move the business forward and make the work of myself, my colleagues and my management, that much easier.
 
 Now I'm pursuing my passion of programming and hoping to get that one break to kick start my career.
 
